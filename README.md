@@ -1,1 +1,1 @@
-# Starship-config
+# Arch dotfiles
