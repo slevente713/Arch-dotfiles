@@ -63,11 +63,11 @@ On that screen, choose that Nerd font that you just installed, and then follow t
 - 5. Download the config files and the ```install.sh``` script, from GitHub, or using git:
 ```sh
 git clone https://github.com/slevente713/Arch-dotfiles.git
-```;
+```
 - 6. Navigate to that directory where you downloaded the config, and the script, using the cd command:
 ```
 cd [The path where you downloaded the script & the config]/Starship
-```;
+```
 - 7. Give permissions to install.sh to run itself:
 ```sh
 chmod +x install.sh
